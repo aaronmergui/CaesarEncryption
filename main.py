@@ -62,6 +62,7 @@ def brute_force_decrypt(encrypted_text):
 
         else:
             key += 1
+
     print("We could not find the encrypted text")
 
 
